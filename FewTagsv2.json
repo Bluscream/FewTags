@@ -25438,21 +25438,6 @@
             "Size": ""
         },
         {
-            "id": 1704,
-            "UserID": "<color=#ff0000>Revoked Munchkin User</color>",
-            "PlateText": "<color=#0062FF>Munchkin</color>",
-            "PlateText2": "",
-            "PlateText3": "",
-            "PlateBigText": "",
-            "Malicious": false,
-            "Active": true,
-            "TextActive": true,
-            "Text2Active": false,
-            "Text3Active": false,
-            "BigTextActive": false,
-            "Size": ""
-        },
-        {
             "id": 1705,
             "UserID": "usr_57c86974-18f2-4370-8ed1-7df0b28afa39",
             "PlateText": "<color=#0062FF>Munchkin</color>",
@@ -38337,21 +38322,6 @@
         {
             "id": 2598,
             "UserID": "usr_68204b61-fe4e-467a-aec9-3a9996912927",
-            "PlateText": "<color=#0062FF>Munchkin</color>",
-            "PlateText2": "",
-            "PlateText3": "",
-            "PlateBigText": "",
-            "Malicious": false,
-            "Active": true,
-            "TextActive": true,
-            "Text2Active": false,
-            "Text3Active": false,
-            "BigTextActive": false,
-            "Size": ""
-        },
-        {
-            "id": 2599,
-            "UserID": "<color=#0062FF>Munchkin</color>",
             "PlateText": "<color=#0062FF>Munchkin</color>",
             "PlateText2": "",
             "PlateText3": "",
@@ -55588,21 +55558,6 @@
             "Size": ""
         },
         {
-            "id": 3792,
-            "UserID": "123",
-            "PlateText": "<color=#0062FF>Munchkin</color>",
-            "PlateText2": "",
-            "PlateText3": "",
-            "PlateBigText": "",
-            "Malicious": false,
-            "Active": true,
-            "TextActive": true,
-            "Text2Active": false,
-            "Text3Active": false,
-            "BigTextActive": false,
-            "Size": ""
-        },
-        {
             "id": 3793,
             "UserID": "usr_51b206b9-55e1-47ff-984e-fdc3fb5bc05a",
             "PlateText": "<color=#0062FF>Munchkin</color>",
@@ -58671,21 +58626,6 @@
         {
             "id": 4010,
             "UserID": "usr_6b560150-4abb-4408-82f8-51a2baaef7e5",
-            "PlateText": "<color=#0062FF>Munchkin</color>",
-            "PlateText2": "",
-            "PlateText3": "",
-            "PlateBigText": "",
-            "Malicious": false,
-            "Active": true,
-            "TextActive": true,
-            "Text2Active": false,
-            "Text3Active": false,
-            "BigTextActive": false,
-            "Size": ""
-        },
-        {
-            "id": 4011,
-            "UserID": "undefined",
             "PlateText": "<color=#0062FF>Munchkin</color>",
             "PlateText2": "",
             "PlateText3": "",

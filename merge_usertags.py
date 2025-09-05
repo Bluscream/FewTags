@@ -44,7 +44,14 @@ class UserTagsMerger:
         user_id = record.get('UserID') or record.get('UserId')
         if not user_id:
             return None
-        return str(user_id).strip()
+        
+        user_id = str(user_id).strip()
+        
+        # Warn about UserIDs that don't start with "usr_"
+        if not user_id.startswith('usr_'):
+            print(f"  WARNING: UserID '{user_id}' doesn't start with 'usr_' (ID: {record.get('id', 'unknown')})")
+        
+        return user_id
 
     def extract_tags_from_record(self, record: Dict[str, Any], source_file: str) -> List[Dict[str, str]]:
         """Extract all tags/text from a record, handling different formats."""

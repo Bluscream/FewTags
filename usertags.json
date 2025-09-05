@@ -98092,7 +98092,7 @@
       "FewTags2.json"
     ]
   },
-  "user/usr_cc6221aa-7acc-4433-b69a-b3b7faf543b2": {
+  "usr_cc6221aa-7acc-4433-b69a-b3b7faf543b2": {
     "id": 5872,
     "active": true,
     "malicious": false,
@@ -113326,68 +113326,8 @@
       "FewTagsv2.json"
     ]
   },
-  "<color=#ff0000>Revoked Munchkin User</color>": {
-    "id": 1704,
-    "active": true,
-    "malicious": false,
-    "tags": [
-      "<color=#0062FF>Munchkin</color>"
-    ],
-    "tag": "Munchkin",
-    "foreground_color": "#ff0000",
-    "sources": [
-      "FewTagsv2.json",
-      "Nameplates.json",
-      "NamePlatesv2.json"
-    ]
-  },
   "usr_62b5a007-a4ac-4704-ae0d-62c27b82861f": {
     "id": 2116,
-    "active": true,
-    "malicious": false,
-    "tags": [
-      "<color=#0062FF>Munchkin</color>"
-    ],
-    "tag": "Munchkin",
-    "foreground_color": "#ff0000",
-    "sources": [
-      "FewTagsv2.json",
-      "Nameplates.json",
-      "NamePlatesv2.json"
-    ]
-  },
-  "<color=#0062FF>Munchkin</color>": {
-    "id": 2599,
-    "active": true,
-    "malicious": false,
-    "tags": [
-      "<color=#0062FF>Munchkin</color>"
-    ],
-    "tag": "Munchkin",
-    "foreground_color": "#ff0000",
-    "sources": [
-      "FewTagsv2.json",
-      "Nameplates.json",
-      "NamePlatesv2.json"
-    ]
-  },
-  "123": {
-    "id": 3792,
-    "active": true,
-    "malicious": false,
-    "tags": [
-      "<color=#0062FF>Munchkin</color>"
-    ],
-    "tag": "Munchkin",
-    "foreground_color": "#ff0000",
-    "sources": [
-      "FewTagsv2.json",
-      "Nameplates.json",
-      "NamePlatesv2.json"
-    ]
-  },
-  "undefined": {
-    "id": 4011,
     "active": true,
     "malicious": false,
     "tags": [
